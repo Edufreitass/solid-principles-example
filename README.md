@@ -11,7 +11,8 @@ The open-closed principle states that according to new requirements the module s
 
 ## L : Liskov substitution Principle (LSP)
 
-
+It applies to inheritance in such a way that the **derived classes must be completely substitutable for their base classes.**
+In other words, if class A is a subtype of class B, then we should be able to replace B with aA without interrupting the behaviour of the program.
 
 ## I : Interface Segregation Principle (ISP)
 
