@@ -7,7 +7,7 @@ Implementation of multiple functionalities in a single class mashup the code.
 
 ## O : Open closed Principle (OSP)
 
-
+The open-closed principle states that according to new requirements the module should be open for extension but closed for modification.
 
 ## L : Liskov substitution Principle (LSP)
 
